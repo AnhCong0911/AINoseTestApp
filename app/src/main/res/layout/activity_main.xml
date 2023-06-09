@@ -54,7 +54,7 @@
                 android:id="@+id/tv_proba"
                 android:layout_width="match_parent"
                 android:layout_height="30dp"
-                android:text="Humidity"
+                android:text="Probability"
                 android:gravity="center"
                 android:textColor="@color/white" />
 
